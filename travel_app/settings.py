@@ -26,7 +26,7 @@ SECRET_KEY = 'zz52unyxi=+eb@juw)gg*qrbal-__=u=1xhm&66l5gtdxqfinq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['desktop-r1o9oti', 'travelapptpo.herokuapp.com', '127.0.0.1', ]
+ALLOWED_HOSTS = ['127.0.0.1', ]
 
 SITE_ID = 7
 # TODO: CHANGE IF  DIFFERENT SITE_ID = 1
@@ -104,23 +104,17 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 #cnx = mysql.connector.connect(user="travelappadmin@tpotravelapp", password={your_password},
 #host="tpotravelapp.mysql.database.azure.com", port=3306, database={your_database}, ssl_ca={ca-cert filename}, ssl_verify_cert=true)
 
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-<<<<<<< HEAD
         'NAME': 'travel-app',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost'
-=======
-        'NAME': 'travelapptpo',
-        'USER': 'travelappadmin@tpotravelapp',
-        'PASSWORD': 'yourStrong(*)Password',
-        'HOST': 'tpotravelapp.mysql.database.azure.com',
-        'PORT' : '3306',
->>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310
     }
 }
+
 
 
 # Password validation
