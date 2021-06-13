@@ -100,11 +100,6 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-
-#cnx = mysql.connector.connect(user="travelappadmin@tpotravelapp", password={your_password},
-#host="tpotravelapp.mysql.database.azure.com", port=3306, database={your_database}, ssl_ca={ca-cert filename}, ssl_verify_cert=true)
-
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
