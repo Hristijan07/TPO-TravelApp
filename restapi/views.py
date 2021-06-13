@@ -5,29 +5,29 @@ from rest_framework import status
 from django.http import HttpResponse
 from django.conf import settings
 from allauth.socialaccount.models import SocialToken, SocialAccount
-<<<<<<< HEAD
+
 #models
-=======
+
 from datetime import datetime
 import json
 
 #model imports:
->>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310
+
 from .models import Transport, Interest, Trip, Destination, Suggestion, Like_Dislike, Company
 from users.models import User
 
 #serializer imports
 from .serializers import *
 
-<<<<<<< HEAD
+
 #recommendation
 #from recommender import reccomend
 from restapi.recommender import reccomend
-=======
+
 #recommendation imports:
 from restapi.recommender import reccomend
 from restapi.latlong import coord_scraper
->>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310
+
 
 # Create your views here.
 
@@ -274,7 +274,6 @@ def user_company(request, format=None):
 # ------------------------------- Company -----------------------------------#
 
 #--------------------------- Recomend endpoint /api/recommend --------------------- #
-## TODO: wqtqwtqwt
 
 def get_gender(g):
     if g == "Male":
@@ -373,7 +372,6 @@ def user_company(request, format=None):
 # ------------------------------- Company -----------------------------------#
 
 #--------------------------- Recomend endpoint /api/recommend --------------------- #
-## TODO: wqtqwtqwt
 
 def get_gender(g):
     if g == "Male":
