@@ -33,9 +33,6 @@ urlpatterns = [
     path('user/info/add', views.user_add, name='user_add'),
 
     #recommendation
-<<<<<<< HEAD
     path('recommend/city=<slug:city>', views.get_recommendations, name='get_recommendations'),
-=======
     path('recommend/destination_id=<int:destination_id>', views.get_recommendations, name='get_recommendations'),
->>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310
 ]
