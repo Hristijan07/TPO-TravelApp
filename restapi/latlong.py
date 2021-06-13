@@ -135,10 +135,10 @@ class coord_scraper:
 #ljubljana = coord_scraper("ljubljana", "slovenia")
 #ljubljana.get_image()
 
-<<<<<<< HEAD
+
 skopje = coord_scraper("Ljubjana", "Slovenia")
 skopje.get_coords()
 print(skopje.coords)
-=======
+
 #print(ljubljana.image)
->>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310
+
