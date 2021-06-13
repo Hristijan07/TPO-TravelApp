@@ -1,0 +1,930 @@
+1608922537016	geckodriver	INFO	Listening on 127.0.0.1:51737
+1608922540069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqU0Az0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608922548028	Marionette	INFO	Listening on port 51747
+1608922548270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/ljubljana/hawaii-nei-discovery-december-to-march-2021/200020515731232?ref=eventlist-new, line 1733: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/hawaii-nei-discovery-december-to-march-2021/200020515731232?ref=eventlist-new, line 1733: [ opened at line 1733, column 0
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileju4anm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924708862	Marionette	INFO	Listening on port 52446
+1608924709227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/ljubljana/mednarodna-razstava-%E2%80%93-andrzej-wr%C3%B3blewski-%C4%8Cakalnica/200020515726027?ref=eventlist-new, line 1769: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/mednarodna-razstava-%E2%80%93-andrzej-wr%C3%B3blewski-%C4%8Cakalnica/2000205JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924722337	Marionette	INFO	Listening on port 52528
+1608924722783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608924750878	geckodriver	INFO	Listening on 127.0.0.1:52609
+1608924753910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenszmmJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608924763169	Marionette	INFO	Listening on port 52618
+1608924763576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/ljubljana/hawaii-nei-discovery-december-to-march-2021/200020515731232?ref=eventlist-new, line 1996: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/hawaii-nei-discovery-december-to-march-2021/200020515731232?ref=eventlist-new, line 1996: [ opened at line 1996, column 0
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1609102352693	geckodriver	INFO	Listening on 127.0.0.1:60738
+1609102355815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKVIFcu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102362518	Marionette	INFO	Listening on port 60748
+1609102362949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+983
+1609102554728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezdo6xP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102560285	Marionette	INFO	Listening on port 60991
+1609102560582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+1609102576773	geckodriver	INFO	Listening on 127.0.0.1:61075
+1609102579856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecCftRo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102583608	Marionette	INFO	Listening on port 61086
+1609102584084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/online/virtual-pasta-making-handcut-pasta-farfalle-tagliatelle-pappardelle/10000131121474861?ref=eventlist-new-online&aff=u1gjbz, line 1780: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-pasta-making-handcut-pasta-farfalle-tagliatelle-pappardelle/10000131121474861?ref=eventlist-new-online&aff=u1gjbz, line 1780: [ opened at line 1780, column 0
+JavaScript error: , line 0: uncaught exception: Object
+211
+1609102626744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2vfOva"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102631702	Marionette	INFO	Listening on port 61219
+1609102632120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/ljubljana/sardinia-sup-discovery-november-2020-may-2021/200019421836119?ref=eventlist-new, line 1792: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/sardinia-sup-discovery-november-2020-may-2021/200019421836119?ref=eventlist-new, line 1792: [ opened at line 1792, column 0
+1609102675728	geckodriver	INFO	Listening on 127.0.0.1:61424
+1609102678840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIygqh0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102684621	Marionette	INFO	Listening on port 61434
+1609102684668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/online-edition-milan-2020-registration-open/200020440602148?ref=eventlist-new-online&aff=u1gjbz, line 1750: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/online-edition-milan-2020-registration-open/200020440602148?ref=eventlist-new-online&aff=u1gjbz, line 1750: [ opened at line 1750, column 0
+1609102733227	geckodriver	INFO	Listening on 127.0.0.1:61536
+1609102736240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewIFlYt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102743362	Marionette	INFO	Listening on port 61546
+1609102743457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+659
+1609102806613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileecvPuD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102811002	Marionette	INFO	Listening on port 61667
+1609102811449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/winter-institute/10000125385111243?ref=eventlist-new-online&aff=u1gjbz, line 1778: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/winter-institute/10000125385111243?ref=eventlist-new-online&aff=u1gjbz, line 1778: [ opened at line 1778, column 0
+JavaScript error: , line 0: uncaught exception: Object
+787
+1609102903910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3H1Vso"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609102909557	Marionette	INFO	Listening on port 61795
+1609102909783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609102956627	geckodriver	INFO	Listening on 127.0.0.1:61831
+1609102959633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileD6UQ2z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609102962811	Marionette	INFO	Listening on port 61841
+1609102962870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: , line 0: uncaught exception: Object
+991
+1609103086659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLPszUr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609103091782	Marionette	INFO	Listening on port 61999
+1609103092012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFAVzZ3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609103382948	Marionette	INFO	Listening on port 62199
+1609103383366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/ljubljana/mednarodna-razstava-%E2%80%93-andrzej-wr%C3%B3blewski-%C4%8Cakalnica/200020515726027?ref=eventlist-new, line 2090: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/mednarodna-razstava-%E2%80%93-andrzej-wr%C3%B3blewski-%C4%8Cakalnica/200020515726027?ref=eventlist-new, line 2090: [ opened at line 2090, column 0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenFb15t"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609103533300	Marionette	INFO	Listening on port 62341
+1609103533449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+1609103707386	geckodriver	INFO	Listening on 127.0.0.1:62495
+1609103710412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDqvTx7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609103716372	Marionette	INFO	Listening on port 62503
+1609103716783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/ljubljana/mednarodna-razstava-%E2%80%93-andrzej-wr%C3%B3blewski-%C4%8Cakalnica/200020515726027?ref=eventlist-new, line 2100: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/mednarodna-razstava-%E2%80%93-andrzej-wr%C3%B3blewski-%C4%8Cakalnica/200020515726027?ref=eventlist-new, line 2100: [ opened at line 2100, column 0
+1609103974628	geckodriver	INFO	Listening on 127.0.0.1:62619
+1609103977687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecrjUJh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609103982357	Marionette	INFO	Listening on port 62627
+1609103982563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609104002591	geckodriver	INFO	Listening on 127.0.0.1:62733
+1609104005652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezX1Bsu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609104012429	Marionette	INFO	Listening on port 62744
+1609104012702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609104038166	geckodriver	INFO	Listening on 127.0.0.1:62869
+1609104041199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLVr5KW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609104048640	Marionette	INFO	Listening on port 62882
+1609104048767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609104247085	geckodriver	INFO	Listening on 127.0.0.1:63038
+1609104250194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNlbafO"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609104256547	Marionette	INFO	Listening on port 63046
+1609104256629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/free-jolly-holly-wreath-making-kits/10000133691231071?ref=eventlist-new-online&aff=u1gjbz, line 1781: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/free-jolly-holly-wreath-making-kits/10000133691231071?ref=eventlist-new-online&aff=u1gjbz, line 1781: [ opened at line 1781, column 0
+1609104368245	geckodriver	INFO	Listening on 127.0.0.1:63143
+1609104371290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJYUssF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609104374988	Marionette	INFO	Listening on port 63151
+1609104375031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1478: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1478: [ opened at line 1478, column 0
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz#, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz#, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/Ljubljana/Entertainment, line 2115: TypeError: $.cookie is not a function
+JavaScript error: https://allevents.in/Ljubljana/Entertainment, line 522: ReferenceError: load_css is not defined
+JavaScript error: https://allevents.in/ljubljana/recognize-real-success-thaht-comes-when-you-express-real-you/200020359390502?ref=eventlist-new, line 2137: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/recognize-real-success-thaht-comes-when-you-express-real-you/200020359390502?ref=eventlist-new, line 2137: [ opened at line 2137, column 0
+1609104506167	geckodriver	INFO	Listening on 127.0.0.1:63268
+1609104509262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileq2eppF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609104512922	Marionette	INFO	Listening on port 63276
+1609104512985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/sgmusicblessings-online-charity-concert-series/10000120933394037?ref=eventlist-new-online&aff=u1gjbz, line 1799: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/sgmusicblessings-online-charity-concert-series/10000120933394037?ref=eventlist-new-online&aff=u1gjbz, line 1799: [ opened at line 1799, column 0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVfyG6S"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609104938104	Marionette	INFO	Listening on port 63454
+1609104938561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/Ljubljana/Cooking, line 2137: TypeError: $.cookie is not a function
+JavaScript error: https://allevents.in/online/24-hour-songwriting-immersion-with-dan-whitehouse-songwriting-workshop/10000132177774281?ref=eventlist-new-online&aff=u1gjbz#, line 2131: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/24-hour-songwriting-immersion-with-dan-whitehouse-songwriting-workshop/10000132177774281?ref=eventlist-new-online&aff=u1gjbz#, line 2131: [ opened at line 2131, column 0
+1609105082461	geckodriver	INFO	Listening on 127.0.0.1:63573
+1609105085631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegj2uhr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609105091327	Marionette	INFO	Listening on port 63581
+1609105091592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F-%D0%BA%D1%83%D0%B8%D1%8A%D1%80-%D1%84%D0%BE%D1%80%D1%83%D0%BC-2020-%D0%98%D0%A1%D0%A2%D0%9E%D0%A0%D0%98%D0%AF-%D0%9D%D0%90-%D0%9F%D0%A0%D0%95%D0%9E%D0%91%D0%9B%D0%98%D0%A7%D0%90%D0%9D%D0%95%D0%A2%D0%9E-%D0%92-%D0%91%D0%AA%D0%9B%D0%93%D0%90%D0%A0%D0%98%D0%AF-|-sofia-queer-forum-2020-bulgarian-drag-h/200020405303212?ref=eventlist-new-online&aff=u1gjbz#, line 1805: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F-%D0%BA%D1%83%D0%B8%D1%8A%D1%80-%D1%84%D0%BE%D1%80%D1%83%D0%BC-2020-%D0%98%D0%A1%D0%A2%D0%9E%D0%A0%D0%98%D0%AF-%D0%9D%D0%90-%D0%9F%D0%A0%D0%95%D0%9E%D0%91%D0%9B%D0%98%D0%A7%D0%90%D0%9D%D0%95%D0%A2%D0%9E-%D0%92-%D0%91%D0%AA%D0%9B%D0%93%D0%90%D0%A0%D0%98%D0%AF-|-sofia-queer-forum-2020-bulgarian-drag-h/200020405303212?ref=eventlist-new-online&aff=u1gjbz#, line 1805: [ opened at line 1805, column 0
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz#, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz#, line 1659: [ opened at line 1659, column 0
+1609105218712	geckodriver	INFO	Listening on 127.0.0.1:63740
+1609105221783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqpi4Gb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609105225065	Marionette	INFO	Listening on port 63748
+1609105225543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1787: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1787: [ opened at line 1787, column 0
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/ljubljana/te%C4%8Daj-romskega-plesa-in-%C5%BEenske-energije/200020527435141?ref=eventlist-new, line 1806: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/te%C4%8Daj-romskega-plesa-in-%C5%BEenske-energije/200020527435141?ref=eventlist-new, line 1806: [ opened at line 1806, column 0
+1609105326056	geckodriver	INFO	Listening on 127.0.0.1:63875
+1609105329034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilez8ozmu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609105336104	Marionette	INFO	Listening on port 63884
+1609105336574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://allevents.in/online/welcoming-the-new-year-with-a-new-you/10000131239718531?ref=eventlist-new-online&aff=u1gjbz, line 1781: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/welcoming-the-new-year-with-a-new-you/10000131239718531?ref=eventlist-new-online&aff=u1gjbz, line 1781: [ opened at line 1781, column 0
+1609105468111	geckodriver	INFO	Listening on 127.0.0.1:64033
+1609105471483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebNAbne"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609105476500	Marionette	INFO	Listening on port 64041
+1609105476971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1787: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1787: [ opened at line 1787, column 0
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/Ljubljana/Food%20and%20drink, line 1916: TypeError: $.cookie is not a function
+JavaScript error: https://allevents.in/ljubljana/otvaranje-firme-u-sloveniji/200020528972340?ref=eventlist-new, line 1724: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/otvaranje-firme-u-sloveniji/200020528972340?ref=eventlist-new, line 1724: [ opened at line 1724, column 0
+1609105669462	geckodriver	INFO	Listening on 127.0.0.1:64156
+1609105672626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTdZtLJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609105678543	Marionette	INFO	Listening on port 64164
+1609105679013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1787: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1787: [ opened at line 1787, column 0
+JavaScript error: https://allevents.in/ljubljana/vi-decembrski-sejem-ilustracije-na-spletu/200020528969827?ref=eventlist-new, line 2151: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/ljubljana/vi-decembrski-sejem-ilustracije-na-spletu/200020528969827?ref=eventlist-new, line 2151: [ opened at line 2151, column 0
+1609164882529	geckodriver	INFO	Listening on 127.0.0.1:60173
+1609164885548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANIEL\\AppData\\Local\\Temp\\rust_mozprofile1IpvSR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609164889272	Marionette	INFO	Listening on port 60181
+1609164889696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/hohoho-santa-claus-virtual-run/10000125775932199?ref=eventlist-new-online&aff=u1gjbz#, line 1792: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hohoho-santa-claus-virtual-run/10000125775932199?ref=eventlist-new-online&aff=u1gjbz#, line 1792: [ opened at line 1792, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 2300 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 2300 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60291
+1609164936579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANIEL\\AppData\\Local\\Temp\\rust_mozprofilejrooOB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609164939514	Marionette	INFO	Listening on port 60301
+1609164939721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/diy-kale-chips-cooking-class/10000132208981623?ref=eventlist-new-online&aff=u1gjbz#, line 1779: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/diy-kale-chips-cooking-class/10000132208981623?ref=eventlist-new-online&aff=u1gjbz#, line 1779: [ opened at line 1779, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 377 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 377 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60407
+1609164999695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANIEL\\AppData\\Local\\Temp\\rust_mozprofile7jeYmH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609165003794	Marionette	INFO	Listening on port 60419
+1609165004116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/haven-a-virtual-retreat/10000132204383871?ref=eventlist-new-online&aff=u1gjbz, line 1717: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/haven-a-virtual-retreat/10000132204383871?ref=eventlist-new-online&aff=u1gjbz, line 1717: [ opened at line 1717, column 0
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/influencer-marketing-talks-with-eric-rutherford/10000133882800059?ref=eventlist-new-online&aff=u1gjbz#, line 1801: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/influencer-marketing-talks-with-eric-rutherford/10000133882800059?ref=eventlist-new-online&aff=u1gjbz#, line 1801: [ opened at line 1801, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 444 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 444 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60552
+1609165306927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANIEL\\AppData\\Local\\Temp\\rust_mozprofileLycSzl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609165311156	Marionette	INFO	Listening on port 60561
+1609165311356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/haven-a-virtual-retreat/10000132204383871?ref=eventlist-new-online&aff=u1gjbz, line 2030: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/haven-a-virtual-retreat/10000132204383871?ref=eventlist-new-online&aff=u1gjbz, line 2030: [ opened at line 2030, column 0
+JavaScript error: https://allevents.in/online/nye-5k-goodbye-2020-hello-2021/200020529258319?ref=eventlist-new-online&aff=u1gjbz, line 1765: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/nye-5k-goodbye-2020-hello-2021/200020529258319?ref=eventlist-new-online&aff=u1gjbz, line 1765: [ opened at line 1765, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4212 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4212 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1609172018527	geckodriver	INFO	Listening on 127.0.0.1:55351
+1609172021571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hrist\\AppData\\Local\\Temp\\rust_mozprofilejQ5o1O"
+*** You are running in headless mode.
+1609172024469	Marionette	INFO	Listening on port 55359
+1609172024762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/2020-2021-sheboygan-international-virtual-hmong-new-year/200020525393852?ref=eventlist-new-online&aff=u1gjbz#, line 1761: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/2020-2021-sheboygan-international-virtual-hmong-new-year/200020525393852?ref=eventlist-new-online&aff=u1gjbz#, line 1761: [ opened at line 1761, column 0
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/5543085916385218696/300x250/index.html#t=16441253749344467982&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 3: SyntaxError: illegal character
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 1657 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 1657 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/blinddate-matchmaking-and-complimentary-events/10000134388655085?ref=eventlist-new-online&aff=u1gjbz, line 1741: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/blinddate-matchmaking-and-complimentary-events/10000134388655085?ref=eventlist-new-online&aff=u1gjbz, line 1741: [ opened at line 1741, column 0
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz#, line 1463: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz#, line 1463: [ opened at line 1463, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 468 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 468 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/virtual-cinema-cst-nyicff-viva-kid-flicks/200020522344227?ref=eventlist-new-online&aff=u1gjbz, line 1832: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-cinema-cst-nyicff-viva-kid-flicks/200020522344227?ref=eventlist-new-online&aff=u1gjbz, line 1832: [ opened at line 1832, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3534 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3534 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/15th-annual-los-angeles-international-childrens-film-festival/10000129190762047?ref=eventlist-new-online&aff=u1gjbz#, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/15th-annual-los-angeles-international-childrens-film-festival/10000129190762047?ref=eventlist-new-online&aff=u1gjbz#, line 1770: [ opened at line 1770, column 0
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/17313966645207204017/970x250/index.html#t=10336146017301044450&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 3: SyntaxError: illegal character
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/7086578931095897403/index.html#t=6273007748772284050&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 158: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/7086578931095897403/index.html#t=6273007748772284050&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 158: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4329 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4329 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2175 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2175 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/interstate-bbq-festival-2021-vendor-application-hagerstown-md-april-17/10000134127413705?ref=eventlist-new-online&aff=u1gjbz, line 1777: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/interstate-bbq-festival-2021-vendor-application-hagerstown-md-april-17/10000134127413705?ref=eventlist-new-online&aff=u1gjbz, line 1777: [ opened at line 1777, column 0
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/7086578931095897403/index.html#t=15237616015898482139&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 158: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/7086578931095897403/index.html#t=15237616015898482139&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 158: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 943 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 943 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/online-screening-surname-viet-given-name-nam-trinh-t-minh-ha-1989-pg13/10000131174184517?ref=eventlist-new-online&aff=u1gjbz, line 1803: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/online-screening-surname-viet-given-name-nam-trinh-t-minh-ha-1989-pg13/10000131174184517?ref=eventlist-new-online&aff=u1gjbz, line 1803: [ opened at line 1803, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1858 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1858 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/firenze-inedita-tour-cittadini-virtuali/200020491977208?ref=eventlist-new-online&aff=u1gjbz, line 1740: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/firenze-inedita-tour-cittadini-virtuali/200020491977208?ref=eventlist-new-online&aff=u1gjbz, line 1740: [ opened at line 1740, column 0
+JavaScript error: https://allevents.in/online/holiday-break-programs-with-get-empowered/10000133561210175?ref=eventlist-new-online&aff=u1gjbz#, line 1776: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/holiday-break-programs-with-get-empowered/10000133561210175?ref=eventlist-new-online&aff=u1gjbz#, line 1776: [ opened at line 1776, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 300 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 300 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/interstate-bbq-festival-2021-vendor-application-hagerstown-md-april-17/10000134127413705?ref=eventlist-new-online&aff=u1gjbz#, line 2129: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/interstate-bbq-festival-2021-vendor-application-hagerstown-md-april-17/10000134127413705?ref=eventlist-new-online&aff=u1gjbz#, line 2129: [ opened at line 2129, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2974 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2974 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/christmas-with-kimberly-a-virtual-concert/10000133610176635?ref=eventlist-new-online&aff=u1gjbz, line 1785: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-with-kimberly-a-virtual-concert/10000133610176635?ref=eventlist-new-online&aff=u1gjbz, line 1785: [ opened at line 1785, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5243 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5243 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/christmas-with-galina/10000133909830909?ref=eventlist-new-online&aff=u1gjbz, line 1784: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-with-galina/10000133909830909?ref=eventlist-new-online&aff=u1gjbz, line 1784: [ opened at line 1784, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5700 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5700 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/the-nutcracker-a-wspa-studio-film/80001258069986?ref=eventlist-new-online&aff=u1gjbz, line 1484: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/the-nutcracker-a-wspa-studio-film/80001258069986?ref=eventlist-new-online&aff=u1gjbz, line 1484: [ opened at line 1484, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3568 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3568 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/christmas-in-a-box-virtual-christmas-eve-service/200020519179034?ref=eventlist-new-online&aff=u1gjbz, line 1743: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-in-a-box-virtual-christmas-eve-service/200020519179034?ref=eventlist-new-online&aff=u1gjbz, line 1743: [ opened at line 1743, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1191 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1191 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/nativity-story-2020/200020527751351?ref=eventlist-new-online&aff=u1gjbz, line 1785: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/nativity-story-2020/200020527751351?ref=eventlist-new-online&aff=u1gjbz, line 1785: [ opened at line 1785, column 0
+JavaScript error: https://allevents.in/online/comedy-open-mic-zoom-show/10000133800842923?ref=eventlist-new-online&aff=u1gjbz#, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/comedy-open-mic-zoom-show/10000133800842923?ref=eventlist-new-online&aff=u1gjbz#, line 1770: [ opened at line 1770, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 849 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 849 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/fireside-footlights-a-holiday-celebration-from-dentons-historic-campus-theatre/200020479410857?ref=eventlist-new-online&aff=u1gjbz, line 1758: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/fireside-footlights-a-holiday-celebration-from-dentons-historic-campus-theatre/200020479410857?ref=eventlist-new-online&aff=u1gjbz, line 1758: [ opened at line 1758, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7095 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7095 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1631 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1631 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 173 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 173 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/17313966645207204017/970x250/index.html#t=9288077909564833081&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 3: SyntaxError: illegal character
+JavaScript error: https://allevents.in/online/comedy-open-mic-zoom-show/10000133802313321?ref=eventlist-new-online&aff=u1gjbz, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/comedy-open-mic-zoom-show/10000133802313321?ref=eventlist-new-online&aff=u1gjbz, line 1770: [ opened at line 1770, column 0
+JavaScript error: https://allevents.in/online/we-can-do-it-with-heather-majaury/200020516676211?ref=eventlist-new-online&aff=u1gjbz#, line 1764: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/we-can-do-it-with-heather-majaury/200020516676211?ref=eventlist-new-online&aff=u1gjbz#, line 1764: [ opened at line 1764, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4145 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4145 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/webinar-production-and-management/200020491906401?ref=eventlist-new-online&aff=u1gjbz#, line 1877: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/webinar-production-and-management/200020491906401?ref=eventlist-new-online&aff=u1gjbz#, line 1877: [ opened at line 1877, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5712 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5712 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/van-gogh-museum-amsterdam-livestream-art-tour/200020531626437?ref=eventlist-new-online&aff=u1gjbz#, line 1865: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/van-gogh-museum-amsterdam-livestream-art-tour/200020531626437?ref=eventlist-new-online&aff=u1gjbz#, line 1865: [ opened at line 1865, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6774 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6774 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz#, line 1772: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz#, line 1772: [ opened at line 1772, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3618 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3618 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/kitchen-sink-live-streams-inviting-community-to-share-holiday-spirit-in-roosevelt-row/80001567542330?ref=eventlist-new-online&aff=u1gjbz#, line 1792: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/kitchen-sink-live-streams-inviting-community-to-share-holiday-spirit-in-roosevelt-row/80001567542330?ref=eventlist-new-online&aff=u1gjbz#, line 1792: [ opened at line 1792, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5069 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5069 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/virtual-tour-of-early-days-indigenous-art-at-the-mcmichael/10000132582964215?ref=eventlist-new-online&aff=u1gjbz, line 1778: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-tour-of-early-days-indigenous-art-at-the-mcmichael/10000132582964215?ref=eventlist-new-online&aff=u1gjbz, line 1778: [ opened at line 1778, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7380 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7380 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/full-moon-meditation-a-lunar-reflection-w-pam-grossman-and-janaka-stucky/10000132737797325?ref=eventlist-new-online&aff=u1gjbz#, line 1719: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/full-moon-meditation-a-lunar-reflection-w-pam-grossman-and-janaka-stucky/10000132737797325?ref=eventlist-new-online&aff=u1gjbz#, line 1719: [ opened at line 1719, column 0
+JavaScript error: https://allevents.in/online/lumia-dance-company-presents-light-through-darkness/10000132206267505?ref=eventlist-new-online&aff=u1gjbz#, line 1748: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/lumia-dance-company-presents-light-through-darkness/10000132206267505?ref=eventlist-new-online&aff=u1gjbz#, line 1748: [ opened at line 1748, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 81 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 81 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/feminine-hour-|-the-power-of-sensuality/10000133035481707?ref=eventlist-new-online&aff=u1gjbz#, line 1807: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/feminine-hour-|-the-power-of-sensuality/10000133035481707?ref=eventlist-new-online&aff=u1gjbz#, line 1807: [ opened at line 1807, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6897 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6897 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/apf-certified-talent-scrum-master%E2%84%A2-apf-ctsm%E2%84%A2-|-jan-22-232021/10000128469733431?ref=eventlist-new-online&aff=u1gjbz#, line 1781: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/apf-certified-talent-scrum-master%E2%84%A2-apf-ctsm%E2%84%A2-|-jan-22-232021/10000128469733431?ref=eventlist-new-online&aff=u1gjbz#, line 1781: [ opened at line 1781, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 1563 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 1563 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/christmas-concert/10000133071980877?ref=eventlist-new-online&aff=u1gjbz, line 1769: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-concert/10000133071980877?ref=eventlist-new-online&aff=u1gjbz, line 1769: [ opened at line 1769, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6765 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6765 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/discover-historic-chelsea-%E2%80%93-a-virtual-tour/10000133086213447?ref=eventlist-new-online&aff=u1gjbz#, line 1765: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/discover-historic-chelsea-%E2%80%93-a-virtual-tour/10000133086213447?ref=eventlist-new-online&aff=u1gjbz#, line 1765: [ opened at line 1765, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6026 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6026 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/virtual-tour-of-early-days-indigenous-art-at-the-mcmichael/10000132582964215?ref=eventlist-new-online&aff=u1gjbz, line 2120: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-tour-of-early-days-indigenous-art-at-the-mcmichael/10000132582964215?ref=eventlist-new-online&aff=u1gjbz, line 2120: [ opened at line 2120, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5192 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5192 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/free-jolly-holly-wreath-making-kits/10000133691231071?ref=eventlist-new-online&aff=u1gjbz, line 1781: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/free-jolly-holly-wreath-making-kits/10000133691231071?ref=eventlist-new-online&aff=u1gjbz, line 1781: [ opened at line 1781, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6743 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6743 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/technology-alberta-first-jobs-program-information-session-for-job-seekers/10000133635351935?ref=eventlist-new-online&aff=u1gjbz, line 1765: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/technology-alberta-first-jobs-program-information-session-for-job-seekers/10000133635351935?ref=eventlist-new-online&aff=u1gjbz, line 1765: [ opened at line 1765, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 296 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 296 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4842 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4842 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190091,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14932, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 18388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1609173441710	Marionette	INFO	Stopped listening on port 55359
+r: Can't find profile directory.
+1609172585296	Marionette	INFO	Listening on port 51457
+1609172585398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/virtual-tour-of-early-days-indigenous-art-at-the-mcmichael/10000132582964215?ref=eventlist-new-online&aff=u1gjbz#, line 2120: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-tour-of-early-days-indigenous-art-at-the-mcmichael/10000132582964215?ref=eventlist-new-online&aff=u1gjbz#, line 2120: [ opened at line 2120, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4437 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4437 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/webinar-production-and-management/200020491906401?ref=eventlist-new-online&aff=u1gjbz, line 2229: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/webinar-production-and-management/200020491906401?ref=eventlist-new-online&aff=u1gjbz, line 2229: [ opened at line 2229, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/open-space-|-online-improv-jam/10000133834100397?ref=eventlist-new-online&aff=u1gjbz#, line 1777: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/open-space-|-online-improv-jam/10000133834100397?ref=eventlist-new-online&aff=u1gjbz#, line 1777: [ opened at line 1777, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4624 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4624 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/circuit-simulation-workshops-for-grade-6-12/80005161644346?ref=eventlist-new-online&aff=u1gjbz, line 1522: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/circuit-simulation-workshops-for-grade-6-12/80005161644346?ref=eventlist-new-online&aff=u1gjbz, line 1522: [ opened at line 1522, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 640 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 640 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/online-shloka-workshop/200020510792439?ref=eventlist-new-online&aff=u1gjbz, line 1740: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/online-shloka-workshop/200020510792439?ref=eventlist-new-online&aff=u1gjbz, line 1740: [ opened at line 1740, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/dr-art-kellerman-and-leila-taaffe-special-holiday-concert-performed-by-the-vcu-health-orchestra/200020438016316?ref=eventlist-new-online&aff=u1gjbz#, line 1772: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/dr-art-kellerman-and-leila-taaffe-special-holiday-concert-performed-by-the-vcu-health-orchestra/200020438016316?ref=eventlist-new-online&aff=u1gjbz#, line 1772: [ opened at line 1772, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3499 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3499 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 9084, MediaDecoderStateMachine #1] WARNING: Decoder=25250366000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 9084, MediaDecoderStateMachine #1] WARNING: Decoder=25250366000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 9084, MediaDecoderStateMachine #1] WARNING: Decoder=25250366000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 9084, MediaDecoderStateMachine #1] WARNING: Decoder=25250366000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/christmas-concert/10000133071980877?ref=eventlist-new-online&aff=u1gjbz, line 2078: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-concert/10000133071980877?ref=eventlist-new-online&aff=u1gjbz, line 2078: [ opened at line 2078, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/cooking-kwanza-cornmeal-griddle-cakes/10000130406506371?ref=eventlist-new-online&aff=u1gjbz#, line 1795: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/cooking-kwanza-cornmeal-griddle-cakes/10000130406506371?ref=eventlist-new-online&aff=u1gjbz#, line 1795: [ opened at line 1795, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7041 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7041 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/winter-art-camp/10000129313276491?ref=eventlist-new-online&aff=u1gjbz, line 1806: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/winter-art-camp/10000129313276491?ref=eventlist-new-online&aff=u1gjbz, line 1806: [ opened at line 1806, column 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/6th-international-conference-on-signal-image-processing-and-embedded-systems-sigem-2020/80006109072014?ref=eventlist-new-online&aff=u1gjbz, line 1761: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/6th-international-conference-on-signal-image-processing-and-embedded-systems-sigem-2020/80006109072014?ref=eventlist-new-online&aff=u1gjbz, line 1761: [ opened at line 1761, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 2260 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 2260 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 962 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 962 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1772: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1772: [ opened at line 1772, column 0
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-5-day-online-session/80003342565996?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/hanuman-chalisa-workshop-in-5-day-online-session/80003263015648?ref=eventlist-new-online&aff=u1gjbz, line 1659: [ opened at line 1659, column 0
+JavaScript error: https://allevents.in/online/6th-international-conference-on-natural-language-computing-natl-2020/80002497946479?ref=eventlist-new-online&aff=u1gjbz, line 2090: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/6th-international-conference-on-natural-language-computing-natl-2020/80002497946479?ref=eventlist-new-online&aff=u1gjbz, line 2090: [ opened at line 2090, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6240 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6240 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5901 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5901 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/dr-art-kellerman-and-leila-taaffe-holiday-concert/80001379001798?ref=eventlist-new-online&aff=u1gjbz, line 1484: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/dr-art-kellerman-and-leila-taaffe-holiday-concert/80001379001798?ref=eventlist-new-online&aff=u1gjbz, line 1484: [ opened at line 1484, column 0
+JavaScript error: https://allevents.in/online/comedy-open-mic-zoom-show/10000133800955259?ref=eventlist-new-online&aff=u1gjbz, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/comedy-open-mic-zoom-show/10000133800955259?ref=eventlist-new-online&aff=u1gjbz, line 1770: [ opened at line 1770, column 0
+JavaScript error: https://allevents.in/online/fireside-footlights-a-holiday-celebration-from-dentons-historic-campus-theatre/200020479410857?ref=eventlist-new-online&aff=u1gjbz#, line 2067: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/fireside-footlights-a-holiday-celebration-from-dentons-historic-campus-theatre/200020479410857?ref=eventlist-new-online&aff=u1gjbz#, line 2067: [ opened at line 2067, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3536 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3536 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/mr-india-2021-entry-form-criteria/80001034773763?ref=eventlist-new-online&aff=u1gjbz, line 1761: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/mr-india-2021-entry-form-criteria/80001034773763?ref=eventlist-new-online&aff=u1gjbz, line 1761: [ opened at line 1761, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/framing-our-futures-rethinking-black-storytelling-in-the-new-normal/10000132878859245?ref=eventlist-new-online&aff=u1gjbz#, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/framing-our-futures-rethinking-black-storytelling-in-the-new-normal/10000132878859245?ref=eventlist-new-online&aff=u1gjbz#, line 1770: [ opened at line 1770, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3037 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3037 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/refresh-and-reset-virtual-workshop-and-vision-board-party/10000129806192817?ref=eventlist-new-online&aff=u1gjbz, line 1753: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/refresh-and-reset-virtual-workshop-and-vision-board-party/10000129806192817?ref=eventlist-new-online&aff=u1gjbz, line 1753: [ opened at line 1753, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/comedy-open-mic-zoom-show/10000133801183943?ref=eventlist-new-online&aff=u1gjbz#, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/comedy-open-mic-zoom-show/10000133801183943?ref=eventlist-new-online&aff=u1gjbz#, line 1770: [ opened at line 1770, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 7339 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 7339 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/comedy-open-mic-zoom-show/10000133801326369?ref=eventlist-new-online&aff=u1gjbz, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/comedy-open-mic-zoom-show/10000133801326369?ref=eventlist-new-online&aff=u1gjbz, line 1770: [ opened at line 1770, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/new-year-festival/200020525402402?ref=eventlist-new-online&aff=u1gjbz, line 1769: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/new-year-festival/200020525402402?ref=eventlist-new-online&aff=u1gjbz, line 1769: [ opened at line 1769, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2985 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2985 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/thriving-saturdays-retreat-%E2%80%A2-health-and-wellness-%E2%80%A2-1-day-%E2%80%A2-all-11-classes/10000132204490189?ref=eventlist-new-online&aff=u1gjbz, line 1783: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/thriving-saturdays-retreat-%E2%80%A2-health-and-wellness-%E2%80%A2-1-day-%E2%80%A2-all-11-classes/10000132204490189?ref=eventlist-new-online&aff=u1gjbz, line 1783: [ opened at line 1783, column 0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/thriving-saturdays-retreat-%E2%80%A2-health-and-wellness-%E2%80%A2-1-day-%E2%80%A2-all-11-classes/10000132204490189?ref=eventlist-new-online&aff=u1gjbz#, line 2141: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/thriving-saturdays-retreat-%E2%80%A2-health-and-wellness-%E2%80%A2-1-day-%E2%80%A2-all-11-classes/10000132204490189?ref=eventlist-new-online&aff=u1gjbz#, line 2141: [ opened at line 2141, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4127 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4127 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/friends-life-care-educational-webinar/10000129312660649?ref=eventlist-new-online&aff=u1gjbz, line 1769: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/friends-life-care-educational-webinar/10000129312660649?ref=eventlist-new-online&aff=u1gjbz, line 1769: [ opened at line 1769, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3935 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3935 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609182130330	geckodriver	INFO	Listening on 127.0.0.1:63253
+1609182133379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hrist\\AppData\\Local\\Temp\\rust_mozprofileTMWwm0"
+*** You are running in headless mode.
+1609182134456	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609182134625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609182134625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609182134625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609182134625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609182137578	Marionette	INFO	Listening on port 63261
+1609182137605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609182163701	geckodriver	INFO	Listening on 127.0.0.1:63285
+1609182166744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hrist\\AppData\\Local\\Temp\\rust_mozprofile0wGIa4"
+*** You are running in headless mode.
+1609182167445	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609182167572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609182167572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609182167572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609182167572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609182169885	Marionette	INFO	Listening on port 63293
+1609182169920	Marionette	WARN	TLS certificate errors will be ignored for this session
+<<<<<<< HEAD
+1609182188605	geckodriver	INFO	Listening on 127.0.0.1:63320
+1609182191672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hrist\\AppData\\Local\\Temp\\rust_mozprofileIkb3TZ"
+=======
+Exiting due to channel error.
+Exiting due to channel error.
+09182191672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hrist\\AppData\\Local\\Temp\\rust_mozprofileIkb3TZ"
+>>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310
+*** You are running in headless mode.
+1609182192258	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609182192374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609182192374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609182192375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609182192375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609182194481	Marionette	INFO	Listening on port 63328
+1609182194837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/online/thrivent-tuesday-hosts-minnesota-music-coalition-farewell-to-2020-party/200020527646942?ref=eventlist-new-online&aff=u1gjbz#, line 1784: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/thrivent-tuesday-hosts-minnesota-music-coalition-farewell-to-2020-party/200020527646942?ref=eventlist-new-online&aff=u1gjbz#, line 1784: [ opened at line 1784, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6203 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6203 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/professional-football-player-recruitment-and-scouting-workshop-level-2/10000132573800807?ref=eventlist-new-online&aff=u1gjbz, line 1782: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/professional-football-player-recruitment-and-scouting-workshop-level-2/10000132573800807?ref=eventlist-new-online&aff=u1gjbz, line 1782: [ opened at line 1782, column 0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://allevents.in/online/dr-art-kellerman-and-leila-taaffe-special-holiday-concert-performed-by-the-vcu-health-orchestra/200020438016316?ref=eventlist-new-online&aff=u1gjbz#, line 1772: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/dr-art-kellerman-and-leila-taaffe-special-holiday-concert-performed-by-the-vcu-health-orchestra/200020438016316?ref=eventlist-new-online&aff=u1gjbz#, line 1772: [ opened at line 1772, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6391 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6391 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 18796, MediaDecoderStateMachine #1] WARNING: Decoder=1a5c358fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4693055651556946434/index.html#t=14480969318459965801&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 149: TypeError: this.a is undefined
+JavaScript error: https://allevents.in/online/the-louvre-fortress-and-royal-palace/10000132412032955?ref=eventlist-new-online&aff=u1gjbz, line 1775: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/the-louvre-fortress-and-royal-palace/10000132412032955?ref=eventlist-new-online&aff=u1gjbz, line 1775: [ opened at line 1775, column 0
+JavaScript error: https://allevents.in/online/bill-saxtons-holiday-songbook-special-extended/200020531255902?ref=eventlist-new-online&aff=u1gjbz#, line 1788: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/bill-saxtons-holiday-songbook-special-extended/200020531255902?ref=eventlist-new-online&aff=u1gjbz#, line 1788: [ opened at line 1788, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5406 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5406 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/comedy-open-mic-zoom-show/10000133802313321?ref=eventlist-new-online&aff=u1gjbz, line 1770: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/comedy-open-mic-zoom-show/10000133802313321?ref=eventlist-new-online&aff=u1gjbz, line 1770: [ opened at line 1770, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1939 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1939 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/christmas-in-a-box-virtual-christmas-eve-service/200020519179034?ref=eventlist-new-online&aff=u1gjbz, line 1743: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-in-a-box-virtual-christmas-eve-service/200020519179034?ref=eventlist-new-online&aff=u1gjbz, line 1743: [ opened at line 1743, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5388 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 5388 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://allevents.in/online/sgmusicblessings-online-charity-concert-series/10000120933394037?ref=eventlist-new-online&aff=u1gjbz, line 1799: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/sgmusicblessings-online-charity-concert-series/10000120933394037?ref=eventlist-new-online&aff=u1gjbz, line 1799: [ opened at line 1799, column 0
+JavaScript error: https://allevents.in/online/virtual-tour-foodie-themed-christmas-lights/10000133788231201?ref=eventlist-new-online&aff=u1gjbz, line 1808: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-tour-foodie-themed-christmas-lights/10000133788231201?ref=eventlist-new-online&aff=u1gjbz, line 1808: [ opened at line 1808, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 292 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 292 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/online-screening-surname-viet-given-name-nam-trinh-t-minh-ha-1989-pg13/10000131174184517?ref=eventlist-new-online&aff=u1gjbz, line 1803: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/online-screening-surname-viet-given-name-nam-trinh-t-minh-ha-1989-pg13/10000131174184517?ref=eventlist-new-online&aff=u1gjbz, line 1803: [ opened at line 1803, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 5406 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 5406 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/intro-being-seen-on-your-own-terms-burlesque-as-a-psychospiritual-practice/10000132585790669?ref=eventlist-new-online&aff=u1gjbz, line 1806: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/intro-being-seen-on-your-own-terms-burlesque-as-a-psychospiritual-practice/10000132585790669?ref=eventlist-new-online&aff=u1gjbz, line 1806: [ opened at line 1806, column 0
+JavaScript error: https://allevents.in/online/holiday-songs-and-piano-for-kids/10000133016242161?ref=eventlist-new-online&aff=u1gjbz#, line 1787: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/holiday-songs-and-piano-for-kids/10000133016242161?ref=eventlist-new-online&aff=u1gjbz#, line 1787: [ opened at line 1787, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6525 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6525 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/diy-kale-chips-cooking-class/10000132208981623?ref=eventlist-new-online&aff=u1gjbz, line 1787: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/diy-kale-chips-cooking-class/10000132208981623?ref=eventlist-new-online&aff=u1gjbz, line 1787: [ opened at line 1787, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4593 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4593 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/run-for-the-medal-winter-virtual-race/10000124914291007?ref=eventlist-new-online&aff=u1gjbz, line 1790: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/run-for-the-medal-winter-virtual-race/10000124914291007?ref=eventlist-new-online&aff=u1gjbz, line 1790: [ opened at line 1790, column 0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/happy-mondays-comedy-inbetweenmass-zoom-charity-special-patrick-monahan/10000134311530403?ref=eventlist-new-online&aff=u1gjbz#, line 1769: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/happy-mondays-comedy-inbetweenmass-zoom-charity-special-patrick-monahan/10000134311530403?ref=eventlist-new-online&aff=u1gjbz#, line 1769: [ opened at line 1769, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 852 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 852 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/the-34th-annual-magic-spectacular/10000133386242843?ref=eventlist-new-online&aff=u1gjbz, line 1781: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/the-34th-annual-magic-spectacular/10000133386242843?ref=eventlist-new-online&aff=u1gjbz, line 1781: [ opened at line 1781, column 0
+JavaScript error: https://allevents.in/online/kwanzaa-celebration-screenings-of-the-pan-african-movie-joseph/10000132494465513?ref=eventlist-new-online&aff=u1gjbz#, line 1783: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/kwanzaa-celebration-screenings-of-the-pan-african-movie-joseph/10000132494465513?ref=eventlist-new-online&aff=u1gjbz#, line 1783: [ opened at line 1783, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4139 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4139 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/winter-festival-clarks-exotica/10000131319126041?ref=eventlist-new-online&aff=u1gjbz, line 1755: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/winter-festival-clarks-exotica/10000131319126041?ref=eventlist-new-online&aff=u1gjbz, line 1755: [ opened at line 1755, column 0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/best-mfa-online-art-event/10000128920828669?ref=eventlist-new-online&aff=u1gjbz#, line 1823: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/best-mfa-online-art-event/10000128920828669?ref=eventlist-new-online&aff=u1gjbz#, line 1823: [ opened at line 1823, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4766 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4766 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4693055651556946434/index.html#t=9141696563088169661&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 149: TypeError: this.a is undefined
+JavaScript error: https://allevents.in/online/introduction-to-french-wines-virtual-live-class/10000130158608903?ref=eventlist-new-online&aff=u1gjbz, line 1789: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/introduction-to-french-wines-virtual-live-class/10000130158608903?ref=eventlist-new-online&aff=u1gjbz, line 1789: [ opened at line 1789, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 487 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 487 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6400, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 6400, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1609185165835	Marionette	INFO	Stopped listening on port 63328
+Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609182971605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609182971605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609182971606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609182971606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609182975437	Marionette	INFO	Listening on port 63658
+1609182975609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/scripts/combined-eventlist.js?v=1, line 7: Error: Request aborted
+JavaScript error: https://allevents.in/online/winter-coding-workshop/10000132642672805?ref=eventlist-new-online&aff=u1gjbz, line 1777: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/winter-coding-workshop/10000132642672805?ref=eventlist-new-online&aff=u1gjbz, line 1777: [ opened at line 1777, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 7002 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 7002 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/rise-stand-up-get-loud-at-the-alphabet-rockers-winter-camp-grades-1-4/10000131564409691?ref=eventlist-new-online&aff=u1gjbz, line 1786: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/rise-stand-up-get-loud-at-the-alphabet-rockers-winter-camp-grades-1-4/10000131564409691?ref=eventlist-new-online&aff=u1gjbz, line 1786: [ opened at line 1786, column 0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://allevents.in/Skopje/Festivals, line 2679: TypeError: _this.profile_categories is undefined
+JavaScript error: https://allevents.in/online/intro-being-seen-on-your-own-terms-burlesque-as-a-psychospiritual-practice/10000132585790669?ref=eventlist-new-online&aff=u1gjbz, line 2117: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/intro-being-seen-on-your-own-terms-burlesque-as-a-psychospiritual-practice/10000132585790669?ref=eventlist-new-online&aff=u1gjbz, line 2117: [ opened at line 2117, column 0
+JavaScript error: https://allevents.in/online/2020-2021-sheboygan-international-virtual-hmong-new-year/200020525393852?ref=eventlist-new-online&aff=u1gjbz, line 1761: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/2020-2021-sheboygan-international-virtual-hmong-new-year/200020525393852?ref=eventlist-new-online&aff=u1gjbz, line 1761: [ opened at line 1761, column 0
+JavaScript error: https://allevents.in/online/christmas-with-kimberly-a-virtual-concert/10000133610176635?ref=eventlist-new-online&aff=u1gjbz#, line 1785: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/christmas-with-kimberly-a-virtual-concert/10000133610176635?ref=eventlist-new-online&aff=u1gjbz#, line 1785: [ opened at line 1785, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4571 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4571 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/winter-festival-clarks-exotica/10000131319126041?ref=eventlist-new-online&aff=u1gjbz, line 2064: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/winter-festival-clarks-exotica/10000131319126041?ref=eventlist-new-online&aff=u1gjbz, line 2064: [ opened at line 2064, column 0
+JavaScript error: https://allevents.in/online/introduction-to-french-wines-virtual-live-class/10000130158608903?ref=eventlist-new-online&aff=u1gjbz, line 2145: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/introduction-to-french-wines-virtual-live-class/10000130158608903?ref=eventlist-new-online&aff=u1gjbz, line 2145: [ opened at line 2145, column 0
+JavaScript error: https://allevents.in/online/execnews-%E2%80%93-current-affairs-and-news-in-english-with-sean/10000133342249257?ref=eventlist-new-online&aff=u1gjbz, line 1758: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/execnews-%E2%80%93-current-affairs-and-news-in-english-with-sean/10000133342249257?ref=eventlist-new-online&aff=u1gjbz, line 1758: [ opened at line 1758, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/holiday-spirit-dec-28th-to-dec-31st/10000132486114535?ref=eventlist-new-online&aff=u1gjbz, line 1778: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/holiday-spirit-dec-28th-to-dec-31st/10000132486114535?ref=eventlist-new-online&aff=u1gjbz, line 1778: [ opened at line 1778, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 600 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 600 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1478: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/palchomescenico-|-40-eventi-%E2%80%98made-at-home-10mila-euro-per-i-musicisti-emergenti-|/80001957414491?ref=eventlist-new-online&aff=u1gjbz, line 1478: [ opened at line 1478, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6104 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6104 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/holiday-comedy-camp-2020-online-kids-and-teens-8-17yo-east-west-coast-times/10000132998274419?ref=eventlist-new-online&aff=u1gjbz, line 1808: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/holiday-comedy-camp-2020-online-kids-and-teens-8-17yo-east-west-coast-times/10000132998274419?ref=eventlist-new-online&aff=u1gjbz, line 1808: [ opened at line 1808, column 0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://allevents.in/online/virtual-workshop-succulent-christmas-tree/200020511977014?ref=eventlist-new-online&aff=u1gjbz, line 1598: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/virtual-workshop-succulent-christmas-tree/200020511977014?ref=eventlist-new-online&aff=u1gjbz, line 1598: [ opened at line 1598, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1662 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1662 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://allevents.in/online/python-online-workshop/80007108317582?ref=eventlist-new-online&aff=u1gjbz, line 1747: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/python-online-workshop/80007108317582?ref=eventlist-new-online&aff=u1gjbz, line 1747: [ opened at line 1747, column 0
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201203/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://allevents.in/online/intro-being-seen-on-your-own-terms-burlesque-as-a-psychospiritual-practice/10000132585790669?ref=eventlist-new-online&aff=u1gjbz, line 2117: SyntaxError: missing ] after element list
+JavaScript note: https://allevents.in/online/intro-being-seen-on-your-own-terms-burlesque-as-a-psychospiritual-practice/10000132585790669?ref=eventlist-new-online&aff=u1gjbz, line 2117: [ opened at line 2117, column 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3989 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3989 > eval line 1 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+<<<<<<< HEAD
+=======
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3696, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1609190619111	Marionette	INFO	Stopped listening on port 63658
+>>>>>>> 85b83f186ebda63997a0c1fec6c7a34475271310

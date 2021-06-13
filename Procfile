@@ -1,0 +1,1 @@
+web: waitress-serve --port=8000 travel_app.wsgi:application
