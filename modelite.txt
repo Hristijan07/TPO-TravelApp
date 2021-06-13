@@ -1,3 +1,0 @@
-modelite da se napravat vo 
-/restapi/models.py
-
